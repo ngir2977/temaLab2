@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ComputerRepairRequestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-01T16:36:54" hostname="DESKTOP-9JCASST" time="0.026">
+<testsuite name="ComputerRepairRequestTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-01T16:58:25" hostname="DESKTOP-9JCASST" time="0.031">
   <properties/>
-  <testcase name="First Test" classname="ComputerRepairRequestTest" time="0.026"/>
+  <testcase name="First Test" classname="ComputerRepairRequestTest" time="0.029"/>
+  <testcase name="Second Test" classname="ComputerRepairRequestTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
